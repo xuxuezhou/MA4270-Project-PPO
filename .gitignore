@@ -1,0 +1,4 @@
+# Ignore model and experiment_logs folders
+model/
+experiment_logs/
+
