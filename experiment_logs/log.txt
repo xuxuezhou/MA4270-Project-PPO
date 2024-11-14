@@ -1,0 +1,22 @@
+Experiment Start Time: 20241114_030922
+Task, Algorithm, Mean Return
+CartPole-v1, ppo_clipped, 52.78
+CartPole-v1, ppo_kl, 45.9
+CartPole-v1, trpo, 55.54
+CartPole-v1, actor_critic, 48.22
+CartPole-v1, reinforce, 53.88
+HalfCheetah-v2, ppo_clipped, 372.02099173597907
+HalfCheetah-v2, ppo_kl, 360.055854214326
+HalfCheetah-v2, trpo, 364.19564784156654
+HalfCheetah-v2, actor_critic, 352.7279173792476
+HalfCheetah-v2, reinforce, 366.3415022481744
+Ant-v2, ppo_clipped, 910.7169665236169
+Ant-v2, ppo_kl, 909.9870168779927
+Ant-v2, trpo, 914.5222434353132
+Ant-v2, actor_critic, 904.7681696737342
+Ant-v2, reinforce, 909.1677566780146
+Walker2d-v2, ppo_clipped, 303.3795641894995
+Walker2d-v2, ppo_kl, 302.8185020444744
+Walker2d-v2, trpo, 303.5907971248699
+Walker2d-v2, actor_critic, 298.9140479936108
+Walker2d-v2, reinforce, 300.1620932159558

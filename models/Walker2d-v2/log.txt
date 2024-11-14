@@ -1,0 +1,10 @@
+2024-11-14 03:03:45 - Algorithm: ppo_clipped, Mean Return: 299.45314498006195
+2024-11-14 03:03:47 - Algorithm: ppo_kl, Mean Return: 302.30736005930294
+2024-11-14 03:03:49 - Algorithm: trpo, Mean Return: 305.4185522478773
+2024-11-14 03:03:51 - Algorithm: actor_critic, Mean Return: 302.99948566125914
+2024-11-14 03:03:53 - Algorithm: reinforce, Mean Return: 309.24488628023005
+2024-11-14 03:11:46 - Algorithm: ppo_clipped, Mean Return: 303.3795641894995
+2024-11-14 03:11:49 - Algorithm: ppo_kl, Mean Return: 302.8185020444744
+2024-11-14 03:11:52 - Algorithm: trpo, Mean Return: 303.5907971248699
+2024-11-14 03:11:56 - Algorithm: actor_critic, Mean Return: 298.9140479936108
+2024-11-14 03:11:59 - Algorithm: reinforce, Mean Return: 300.1620932159558
