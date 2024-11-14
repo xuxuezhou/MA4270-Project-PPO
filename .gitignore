@@ -1,4 +1,4 @@
 # Ignore model and experiment_logs folders
-model/
+models/
 experiment_logs/
 
